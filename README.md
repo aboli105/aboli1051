@@ -25,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aboli1051&theme=react-dark&area=true)
 <!--
-**aboli105/aboli1051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aboli105/aboli105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
