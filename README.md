@@ -1,8 +1,10 @@
 # aboli1051Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ABboli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-ABboli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aboli-waghmare-61b657204/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aboli-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aboli-yellow)](https://stackoverflow.com/users/17893633/aboli-waghmare)
+[![Website Badge](https://img.shields.io/badge/Behance-Aboli-yellow)](https://www.behance.net/aboliwaghmare)
+
 
 I'm
 Full Stack Solution Architect
